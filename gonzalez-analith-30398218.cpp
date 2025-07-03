@@ -154,10 +154,7 @@ printf("\n------- RESULTADO DE BUSQUEDA -------\n\n");
         }
     
 
-    if(!se_encontraron_resultados) {
-        printf(ROJO_N "\nNo se encontraron libros que coincidan con la busqueda." RESET "\n");
-    }
-
+	    
 	   
 }
  
